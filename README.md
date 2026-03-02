@@ -1,0 +1,1 @@
+This repository contains five end-to-end machine learning projects completed as part of my Data Science & Analytics Internship. The projects focus on real-world business problems including classification and regression modeling, customer behavior analysis, and financial risk prediction.
